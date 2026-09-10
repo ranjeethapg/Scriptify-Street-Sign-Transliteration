@@ -1,0 +1,7 @@
+streamlit
+indic-transliteration
+gTTS
+pytesseract
+Pillow
+python-docx
+PyPDF2
